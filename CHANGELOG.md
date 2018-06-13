@@ -1,5 +1,18 @@
 # Changelog
 
+### 7.0.5
+
+Bugfixes (6/13/18)
+
+* You can now click anywhere in a grid item to follow it's link
+* Tile with images in them we're draggable in the visual builder
+* Fixed white screen of death bug related to vertical menus in designs imported from ProPhoto 6
+* Added progress bar for design initialization pop-up
+* Switching save technique to deal with blocks/layouts sporadically not dislpaying on the front
+* Radio input in forms can now be edited
+* Grid read-more link customizations were incorrectly being applying to the title as well
+* Post image customizations weren't applying correctly
+
 ### 7.0.4
 
 Bugfixes (6/6/18)
