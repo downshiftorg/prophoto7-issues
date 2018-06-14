@@ -4,14 +4,14 @@
 
 Bugfixes (6/13/18)
 
-* You can now click anywhere in a grid item to follow it's link
-* Tile with images in them we're draggable in the visual builder
-* Fixed white screen of death bug related to vertical menus in designs imported from ProPhoto 6
 * Added progress bar for design initialization pop-up
-* Switching save technique to deal with blocks/layouts sporadically not dislpaying on the front
-* Radio input in forms can now be edited
-* Grid read-more link customizations were incorrectly being applying to the title as well
-* Post image customizations weren't applying correctly
+* Switched save technique to deal with blocks/layouts sporadically not dislpaying on the front
+* Fixed grids so that the entire grid item can be clicked to follow it's link
+* Fixed tiles which have image layers so they can be dragged into a layout
+* Fixed white screen of death bug related to vertical menus in designs imported from ProPhoto 6
+* Fixed multiple choice field types in forms so they can be edited
+* Fixed grid read-more link customizations that were applying incorrectly to grid titles
+* Fixed WordPress Content Moudle image customizations that were not applying correctly
 
 ### 7.0.4
 
