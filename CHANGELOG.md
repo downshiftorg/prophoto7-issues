@@ -1,5 +1,23 @@
 # Changelog
 
+### 7.0.7
+
+Bugfixes (6/20/18)
+
+* Fixed issue in Safari causing changes to mobile menu to not display correctly
+* Ensuring layouts are initialized immediately after auto-update, instead of on next page load
+* Tiles now show hover state on touch devices when touched
+* Grid items now correctly respect setting to open in a new window
+* Preventing "$" character from getting stripped out of site content
+
+### 7.0.6
+
+An new feature and some bugfixes (6/15/18)
+
+* **ENHANCEMENT:** X-ray mode (in the view mode menu) allows you to view hidden/small items in visual builder for easier editing
+* CSS was't getting browser cache broken on the front end, occasionally resulting in customization changes not displaying
+* (regression) Save change in 7.0.5 wasn't saving a new layout if it wasn't currently being edited
+
 ### 7.0.5
 
 Bugfixes (6/13/18)
