@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.0.8
+
+Bugfixes (6/21/18)
+
+* Grid title was incorrectly getting classname for the read more link
+* (regression) "$" fix in 7.0.7 caused a multitude of other encoding issues, so using more comprehensive approach
+
 ### 7.0.7
 
 Bugfixes (6/20/18)
