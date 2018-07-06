@@ -1,5 +1,21 @@
 # Changelog
 
+### 7.0.9
+
+Bugfixes (7/6/18)
+
+* Major refactor of saving process to prevent layouts/blocks from intermittently disappearing on the front
+* Fixed incorrect corner radius calculations in Tiles causing wrong radiuses in some scenarios
+* Fall back to first grid style if a grid's assigned style has been deleted
+* Prevent deletion of all of your grid styles
+* Fixed scrolling issues mobile menu icon when visual building
+* Repairing some designs imported from P6 that couldn't modify module visibility
+* You can now select which email field in a contact form is the reply-to address
+* Prevent grid galleries from being duplicated on pages with multiple galleries
+* In Layouts area, layouts now correctly show single page assignments
+* In Layouts area, single gallery (and other custom post type) pages are now assignable
+
+
 ### 7.0.8
 
 Bugfixes (6/21/18)
