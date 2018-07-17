@@ -1,5 +1,11 @@
 # Changelog
 
+### 7.0.10
+
+Bugfixes (7/13/18)
+
+* Preventing design initialization modal from rendering on every page if initialization fails to complete
+
 ### 7.0.9
 
 Bugfixes (7/6/18)
@@ -14,7 +20,6 @@ Bugfixes (7/6/18)
 * Prevent grid galleries from being duplicated on pages with multiple galleries
 * In Layouts area, layouts now correctly show single page assignments
 * In Layouts area, single gallery (and other custom post type) pages are now assignable
-
 
 ### 7.0.8
 
