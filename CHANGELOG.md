@@ -1,6 +1,6 @@
 # Changelog
 
-### 7.0.10
+### 7.0.11
 
 Bugfixes and an enhancement (7/27/18)
 
