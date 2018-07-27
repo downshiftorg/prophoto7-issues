@@ -2,6 +2,19 @@
 
 ### 7.0.10
 
+Bugfixes and an enhancement (7/27/18)
+
+* **ENHANCEMENT** You can now delete entries from your form submission log
+* Icons now show correctly when submitting a contact form
+* Fixed issue preventing all design assets from downloading on some servers
+* Prevents warning in Twitter menu item when there are no tweets
+* Fixed menu item border that was being applied to the collapse icon in vertical menus
+* Fixed max-width setting for form elements
+* Links in text modules now correctly respect the "open in new window" checkbox
+* Ensuring embedded grid galleries display images in correct order
+
+### 7.0.10
+
 Bugfixes (7/13/18)
 
 * Preventing design initialization modal from rendering on every page if initialization fails to complete
