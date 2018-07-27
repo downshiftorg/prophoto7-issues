@@ -5,6 +5,7 @@
 Bugfixes and an enhancement (7/27/18)
 
 * **ENHANCEMENT** You can now delete entries from your form submission log
+* Tiles used in grid read-more links now get their fonts sized correctly
 * Icons now show correctly when submitting a contact form
 * Fixed issue preventing all design assets from downloading on some servers
 * Prevents warning in Twitter menu item when there are no tweets
