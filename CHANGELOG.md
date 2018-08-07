@@ -6,12 +6,12 @@ Bugfixes (8/7/18)
 
 * Updated and optimized the 6 included designs and improved their onboarding experience
 * Working around bug in Safari to get text layers center aligning correctly in Tiles
-* The remote email sending option in the ProPhoto settings area now reliable sends emails
+* The remote email sending option in the ProPhoto settings area now reliably sends emails
 * Background videos from YouTube and Vimeo should now autoplay
 * Our Google Tag Manager code will now only run on the front when you are logged in, for GDPR compliance
-* Fixed thumbnail grid errors when clicking on the first thumbnail image
+* Fixed thumbnail gallery displaying wrong thumbnail when clicked and never-ending spinner
 * Fixed issue with category dropdown menu item excluding extra categories
-* Prevents lots of images in a design being imported from ProPhoto6 from overloading the server
+* Prevents attachments from overloading the server when importing a large ProPhoto6 design
 
 ### 7.1.0
 
