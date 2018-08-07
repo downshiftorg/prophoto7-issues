@@ -17,7 +17,7 @@ Bugfixes (8/7/18)
 
 Features, enhancements and a bugfix (8/2/18)
 
-* **FEATURE** Activating an included or purchased design now sets up all related pages/galleries for you automatically.
+* **FEATURE** Activating an included or purchased design now sets up all assigned pages and posts for you automatically.
 * **FEATURE** Page navigator dropdown added to Visual Builder.  Quickly jump between editing different pages of your site.
 * **ENHANCEMENT** Visual Builder controls UI was restructured for better usability
 * **ENHANCEMENT** Blocks in the block library now show what layouts they are used in when hovering the green "usage" circle
