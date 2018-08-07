@@ -1,5 +1,18 @@
 # Changelog
 
+### 7.1.1
+
+Bugfixes (8/7/18)
+
+* Updated and optimized the 6 included designs and improved their onboarding experience
+* Working around bug in Safari to get text layers center aligning correctly in Tiles
+* The remote email sending option in the ProPhoto settings area now reliable sends emails
+* Background videos from YouTube and Vimeo should now autoplay
+* Our Google Tag Manager code will now only run on the front when you are logged in, for GDPR compliance
+* Fixed thumbnail grid errors when clicking on the first thumbnail image
+* Fixed issue with category dropdown menu item excluding extra categories
+* Prevents lots of images in a design being imported from ProPhoto6 from overloading the server
+
 ### 7.1.0
 
 Features, enhancements and a bugfix (8/2/18)
