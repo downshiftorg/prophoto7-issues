@@ -1,5 +1,19 @@
 # Changelog
 
+### 7.1.2
+
+Bugfixes and enhancement (8/15/18)
+
+* **ENHANCEMENT** Revised our design initialization process to be much, much, much faster :)
+* Displaying placeholder in visual builder for galleries that are embedded in post/page content
+* The 'disable facebook meta' checkbox in the ProPhoto Settings area wasn't working
+* Fixed bug causing background galleries to disappear on front after an auto-update
+* Fixed layout custom CSS so it works on the front again
+* Collapsable vertical menus now load on the front in a closed state
+* Fix regression in delete modified image button resulting in deletion of p6 gallery images in some scenarios
+* Fixed bug with initial background gallery sizing in the visual builder
+* Fixed onboarding bug causing design home page to redirect to incorrect page of site 
+
 ### 7.1.1
 
 Bugfixes (8/7/18)
