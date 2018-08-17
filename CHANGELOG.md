@@ -2,9 +2,9 @@
 
 ### 7.1.3
 
-Bugfix
+Bugfix (8/17/18)
 
-* Fixes horizontal menu dropdowns not showing when hovered after 7.1.2 update
+* (regression) Fixes horizontal menu dropdowns not showing when hovered. Broken by 7.1.2 update
 
 ### 7.1.2
 
