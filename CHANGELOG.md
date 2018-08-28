@@ -1,5 +1,15 @@
 # Changelog
 
+### 7.1.4
+
+Bugfix (8/21/18)
+
+* Fixed bug causing creation of empty, unattached modules that were causing errors in multiple places
+* Custom Statcounter code wasn't being rendered on the front
+* Fixed errors preventing additional gallery images from loading when image missing meta data
+* Fixed incorrect layout assignments for the default "Creative" design
+* Adds "customize" button to live design, to switch back to editing mode for that design
+
 ### 7.1.3
 
 Bugfix (8/17/18)
