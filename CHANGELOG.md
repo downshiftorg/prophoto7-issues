@@ -1,5 +1,17 @@
 # Changelog
 
+### 7.1.5
+
+Performance improvements and bugfixes (9/5/18)
+
+* **FEATURE** Lazyloading of images (Settings > Site Settings > Misc) can improve page load times
+* **ENHANCEMENT** Added image downsizing support for grids to prevent loading of full-sized images
+* **ENHANCEMENT** Added more control for quality/sharpening of downsized images (Settings > Site Settings > Misc)
+* Fixed bug that was resulting in always using the inferior GD library for image downsizing, even when ImageMagick was available
+* Added validation for scroll-to links in menu items, preventing invalid scroll-to links from resulting in invalid links
+* Fixed bug causing embedded video backgrounds to be sized incorrectly
+* Fixed bug in search menu item preventing the search results from displaying correctly
+
 ### 7.1.4
 
 Bugfix (8/21/18)
