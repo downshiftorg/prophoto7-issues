@@ -1,5 +1,18 @@
 # Changelog
 
+### 7.1.6
+
+Bugfixes (9/14/18)
+
+* Reworked comment rendering to allow 3rd party commenting plugins to display (Disqus support)
+* Fixed SEO settings problem incorrectly showing a SEO plugin enabled (contact us if your site is still in this state)
+* Fixed issue causing an empty graphics module to be un-editable after saving
+* Added tutorial links to all of our included designs on the manage designs screen
+* Fixed error in ImageMagick downsizing causing grid/gallery images to not show the first time they were loaded
+* Updates image sizing calculation in grids that was resulting in undersized images in some scenarios
+* Fixes duplication of submenu items in pages and categories dropdowns
+* Fixes sticky blocks not always sticking on the front
+
 ### 7.1.5
 
 Performance improvements and bugfixes (9/5/18)
