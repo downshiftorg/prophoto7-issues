@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.1.7
+
+Bugfixes (9/17/18)
+
+* Fixed comment bug resulting in fatal error after saving layout on a page with comments disabled
+* Removed extra space showing under galleries on phones when showing the control bar outside of the gallery
+
 ### 7.1.6
 
 Bugfixes (9/14/18)
