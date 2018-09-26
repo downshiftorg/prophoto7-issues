@@ -1,5 +1,21 @@
 # Changelog
 
+### 7.2.0
+
+Major release with new features and enhancements, as well as some bug fixes
+
+* **FEATURE** Quickly jump to visual editor mode from any post/page editor screen via a button in the WordPress toolbar
+* **FEATURE** Insert/Edit grids in a post or page using the ProPhoto button
+* **FEATURE** Hide post titles on a layout by layout basis
+* **FEATURE** Added 2 brand new included designs, and did some refining of our existing designs
+* **ENHANCEMENT** Including 'getting started' link and video to the end of the registration process
+* **ENHANCEMENT** Added number of posts setting to the recent posts from category grid
+* **ENHANCEMENT** Added default text to WordPress content module for 404 pages
+* Refactored CSS generation resulting in significant performance improvements for layouts that include a WP content module
+* Fixes vertical centering withing full-height blocks in Internet Explorer 11
+* Prevent catastrophic jumbling of live design when auto-updating site with live and customizing designs
+* Fixes vertical alignment issues within slide-up style grid overlays
+
 ### 7.1.7
 
 Bugfixes (9/17/18)
