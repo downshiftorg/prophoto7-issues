@@ -12,7 +12,7 @@ Major release with new features and enhancements, as well as some bug fixes
 * **ENHANCEMENT** Added number of posts setting to the recent posts from category grid
 * **ENHANCEMENT** Added default text to WordPress content module for 404 pages
 * Refactored CSS generation resulting in significant performance improvements for layouts that include a WP content module
-* Fixes vertical centering withing full-height blocks in Internet Explorer 11
+* Fixes vertical centering within full-height blocks in Internet Explorer 11
 * Prevent catastrophic jumbling of live design when auto-updating site with live and customizing designs
 * Fixes vertical alignment issues within slide-up style grid overlays
 
