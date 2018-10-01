@@ -1,5 +1,16 @@
 # Changelog
 
+### 7.2.1
+
+Bugfixes (10/1/18)
+
+* Fixed bug causing a white screen of death on SEO settings page when using an SEO plugin
+* Fixed Instagram grid issue causing distortion of images at smaller sizes
+* Updated Instagram authentication process due to changes in Instagram API
+* Added work around for importing ProPhoto 6 attachments on slower servers
+* Added vertical spacing options for dropdowns in horizontal menus
+* Fixed bug preventing registration form from submitting
+
 ### 7.2.0
 
 Major release with new features and enhancements, as well as some bug fixes
