@@ -1,5 +1,14 @@
 # Changelog
 
+### 7.2.2
+
+Bugfixes (10/5/18)
+
+* Enhanced ProPhoto's detection of file structure to accommodate unusual WordPress setups on some webhosts
+* Fixes post-auto-update issue that was resetting a subset of customizations for some layouts
+* Fixes scrollto positioning errors when there is a sticky block
+* (regression) Our approach with horizontal menu dropdown spacing wasn't compatible with menu item background hover color
+
 ### 7.2.1
 
 Bugfixes (10/1/18)
