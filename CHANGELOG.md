@@ -7,7 +7,7 @@ Enhancement & Bugfixes (10/18/18)
 * **ENHANCEMENT** (GDPR compliance) Go to Settings > Site Settings > Social Media to entirely disable social media network support on site
 * Fixes pixel rounding issue in masonry grids that could result in 1 pixel spaces between images
 * Comment customizations are now available in WordPress content module regardless of what page type you're currently on
-* A Layer background image with attachment set to fixed now displays properly fixed in the visual-builder
+* A background image on the layout with attachment set to scroll now displays properly in the visual-builder
 * Sorted issue with h1 vs. h2 tags for article titles on single and multipost pages
 * Titles of slide-up style grids weren't vertically aligning properly if font style had a non-100% line height
 
