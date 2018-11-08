@@ -1,5 +1,18 @@
 # Changelog
 
+### 7.3.0
+
+Features and bugfixes (11/8/18)
+
+* **FEATURE** WooCommerce support - Integrate e-commerce into your site with the WooCommerce plugin. ProPhoto allows assignmnent of layouts to all the major WooCommerce pages and product pages
+* **FEATURE** You can now add checkbox elements to ProPhoto forms
+* **FEATURE** Enter a custom slug for your ProPhoto gallery pages (in Settings > Misc)
+* **ENHANCEMENT** Added a horizontal alignment setting for ProPhoto grids
+* Fixes a caching issue with Instagram causing Instagram grids to not load in some scenarios
+* Tiles inside of graphic modules were incorrectly utilizing the image size constraint setting
+* Archive dropdown menu items were all jacked up if WordPress installation had a non-standard directory structure
+* Image watermarking was breaking for users with ImageMagick
+
 ### 7.2.3
 
 Enhancement & Bugfixes (10/18/18)
