@@ -1,5 +1,16 @@
 # Changelog
 
+### 7.3.1
+
+bugfixes (11/21/18)
+
+* Scroll-to links weren't scrolling to the correct position when there was a grid on the page
+* Tiles with scaled images were doing not good things in IE11
+* Radio inputs in a ProPhoto form were submitting the wrong selected value
+* Saving changes to font style with custom font while using Safari caused problems when viewing site in Chrome
+* Scroll to link validation was failing in Firefox
+* (regression) Fixes fatal error on pages using an Instagram grid
+
 ### 7.3.0
 
 Features and bugfixes (11/8/18)
