@@ -1,5 +1,18 @@
 # Changelog
 
+### 7.4.0
+
+Features, enhancements, and bugfixes (12/10/18)
+
+* **FEATURE** Module animations - Add animations to modules that are triggered as they are scrolled into view
+* **FEATURE** ProPhoto caching - Page and CSS caching functionality that can greatly improve page load speeds
+* **ENHANCEMENT** In layout area, assignments for posts and pages are now clickable to quickly visually build those pages
+* **ENHANCEMENT** Added more tooltips to the visual builder for improved usability
+* In the visual builder in Firefox, the slideover block was displaying outside of the preview area
+* In IE11, the thumbstrip of a gallery with many images was displaying the images super tiny :open_mouth:
+* In some cases, stuck customizations for rows/columns in a sticky block weren't applying
+* Fixes image alignment issues related to WordPress 5.0 image block
+
 ### 7.3.1
 
 bugfixes (11/21/18)
