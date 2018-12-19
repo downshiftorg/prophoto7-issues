@@ -1,5 +1,13 @@
 # Changelog
 
+### 7.4.1
+
+Bugfixes (12/19/18)
+
+* Images added to post as a WordPress image block weren't getting the ProPhoto image spacing/alignment settings
+* In some scenarios, ProPhoto page caching wasn't clearing properly after saving in the visual builder
+* Embedded galleries were causing a fatal error when viewed in the WordPress 5 block editor
+
 ### 7.4.0
 
 Features, enhancements, and bugfixes (12/10/18)
