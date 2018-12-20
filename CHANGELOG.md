@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.4.2
+
+Bugfixes (12/20/18)
+
+* Recent posts dropdown menu item now only shows published posts
+* (Regression) Our patch to fix the embedded gallery error broke the visual builder 😬
+
 ### 7.4.1
 
 Bugfixes (12/19/18)
