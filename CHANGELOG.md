@@ -2,7 +2,7 @@
 
 ### 7.4.3
 
-Bugfixes (1/3/18)
+Bugfixes (1/3/19)
 
 * Woff uploading works again after the WordPress 5.0.1 and 4.9.9 security updates broke it
 * Slideover block positioning wasn't correctly taking the layout top margin into account
