@@ -1,5 +1,22 @@
 # Changelog
 
+### 7.5.0
+
+Features, enhancements, and bugfixes (1/23/19)
+
+* **FEATURE** Added a guided tour through the visual builder to help new users get their bearing
+* **ENHANCEMENT** Controls for blocks and modules in the visual no longer scroll off the screen
+* **ENHANCEMENT** ProPhoto now warns you when attempting to delete your WordPress content module in layouts applied to multiple pages
+* Regenerating site HTML/CSS if the WordPress site or home urls change
+* Modules that are sliding over from the right no longer cause weird scroll bar issues
+* Fixes issue causing galleries to not render in posts/pages when using the classic editor plugin
+* Added pagination to ProPhoto's form log, avoiding errors for users with hundreds of form submissions
+* Hosts using a centralized location for WordPress core files no longer breaks ProPhoto generated images
+* Fixes issue where hidden grids were breaking scrollto links
+* Space above and below image settings now correctly apply to images inserted with the old "ProPhoto insert all" method
+* Custom CSS applied to a row at a specific breakpoint now applies correctly
+* Fixes carousel gallery image alignment when used as a background gallery
+
 ### 7.4.3
 
 Bugfixes (1/3/19)
