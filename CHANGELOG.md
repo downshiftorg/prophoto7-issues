@@ -4,9 +4,9 @@
 
 Features, enhancements, and bugfixes (1/23/19)
 
-* **FEATURE** Added a guided tour through the visual builder to help new users get their bearing
+* **FEATURE** Added a guided tour through the visual builder to help new users get their bearings
 * **ENHANCEMENT** Controls for blocks and modules in the visual no longer scroll off the screen
-* **ENHANCEMENT** ProPhoto now warns you when attempting to delete your WordPress content module in layouts applied to multiple pages
+* **ENHANCEMENT** ProPhoto now warns you when attempting to delete your WordPress content module in layouts that should have one
 * Regenerating site HTML/CSS if the WordPress site or home urls change
 * Modules that are sliding over from the right no longer cause weird scroll bar issues
 * Fixes issue causing galleries to not render in posts/pages when using the classic editor plugin
