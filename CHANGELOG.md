@@ -4,7 +4,7 @@
 
 Features, enhancements, and bugfixes (2/19/19)
 
-* **FEATURE** Introducing ProPhoto Gallery and Grid blocks for WordPress 5. Using WordPress 5's block editor, you can now visual add and edit ProPhoto Galleries and Grids from within your post/page editor.
+* **FEATURE** Introducing ProPhoto Gallery and Grid blocks for WordPress 5. Using WordPress 5's block editor, you can now visually add and edit ProPhoto Galleries and Grids from within your post/page editor.
 * **FEATURE** You can now select a default gallery style and grid style to use any time they are embedded in a post or page
 * **ENHANCEMENT** Grids without any content now show a placeholder for easier management
 * **ENHANCEMENT** Added an opt-in error/message logging tool to aid us in debugging your sites
