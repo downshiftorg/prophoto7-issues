@@ -1,5 +1,19 @@
 # Changelog
 
+### 7.6.1
+
+Bugfixes
+
+* Fixes conflict that was preventing creation of a post/page from the BlogStomp app
+* Fixes conversion to block of ProPhoto galleries that were inserted using the classic editor
+* Grid placeholders were incorrectly showing up on pages that shouldn't be showing grid excerpts
+* Premium designs weren't displaying their thumbnail image corretly on the manage designs screen
+* Some fixes to font styles in excerpt grids when in the visual builder
+* Prevents thumbnail style galleries from breaking if gallery images are deleted from the media library
+* Images aligned left or right at the end of content were resulting in incorrectly positioned comments area
+* Fixes issues with grid images on a few webhosts with non-standard WordPress installations
+* Adds support for plugin fix in rare cases where ProPhoto was creating extraneous empty images in the media library 
+
 ### 7.6.0
 
 Features, enhancements, and bugfixes (2/19/19)
