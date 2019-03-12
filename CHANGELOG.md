@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.6.2
+
+Bugfixes
+
+* regression - Fixed issue resulting on fatal error on blog page when using excerpt grid
+* Updated code causing a PHP warning on PHP 7.3
+
 ### 7.6.1
 
 Bugfixes
