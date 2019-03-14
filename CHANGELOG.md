@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.6.3
+
+Bugfixes
+
+* Preventing occasional issue causing Slideover blocks and mobile menu icons to disappear after updates
+* regression - Fix for rare issue with extraneous media images in 7.6.2 was caused an error
+
 ### 7.6.2
 
 Bugfixes
