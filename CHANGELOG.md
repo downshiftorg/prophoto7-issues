@@ -2,21 +2,21 @@
 
 ### 7.6.3
 
-Bugfixes
+Bugfixes (4/14/2019)
 
 * Preventing occasional issue causing Slideover blocks and mobile menu icons to disappear after updates
 * regression - Fix for rare issue with extraneous media images in 7.6.2 was caused an error
 
 ### 7.6.2
 
-Bugfixes
+Bugfixes (4/12/2019)
 
 * regression - Fixed issue resulting on fatal error on blog page when using excerpt grid
 * Updated code causing a PHP warning on PHP 7.3
 
 ### 7.6.1
 
-Bugfixes
+Bugfixes (4/6/2019)
 
 * Fixes conflict that was preventing creation of a post/page from the BlogStomp app
 * Fixes conversion to block of ProPhoto galleries that were inserted using the classic editor
