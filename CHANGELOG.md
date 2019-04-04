@@ -1,22 +1,32 @@
 # Changelog
 
+### 7.6.4
+
+Bugfixes (4/4/19)
+
+* Added several fixes for broken/stuck instagram grids, included a notice when Instagram account authorization has expired
+* Ensuring we display all categories in grid form when selecting a category related grid type
+* Fixed an issue where contact form submissions containing HTML would break the form submission log
+* Users who imported footer link removal from ProPhoto 6 will now be asked to re-submit their license
+* Setting in the form for inserting a grid in a post/page weren't working properly in the classic editor
+
 ### 7.6.3
 
-Bugfixes (4/14/19)
+Bugfixes (3/14/19)
 
 * Preventing occasional issue causing Slideover blocks and mobile menu icons to disappear after updates
 * regression - Fix for rare issue with extraneous media images in 7.6.2 was caused an error
 
 ### 7.6.2
 
-Bugfixes (4/12/19)
+Bugfixes (3/12/19)
 
 * regression - Fixed issue resulting on fatal error on blog page when using excerpt grid
 * Updated code causing a PHP warning on PHP 7.3
 
 ### 7.6.1
 
-Bugfixes (4/6/19)
+Bugfixes (3/6/19)
 
 * Fixes conflict that was preventing creation of a post/page from the BlogStomp app
 * Fixes conversion to block of ProPhoto galleries that were inserted using the classic editor
