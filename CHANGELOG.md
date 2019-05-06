@@ -2,7 +2,7 @@
 
 ### 7.7.0
 
-Enhancements, and bugfixes (5/6/19)
+Enhancements and bugfixes (5/6/19)
 
 * **ENHANCEMENT** Added a "full size images" style to the prophoto gallery block for use in the gutenberg editor
 * **ENHANCEMENT** Font styles have been re-worked, making them much more powerful, flexible, and easier to use
