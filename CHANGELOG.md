@@ -1,5 +1,17 @@
 # Changelog
 
+### 7.7.0
+
+Enhancements, and bugfixes (5/6/19)
+
+* **ENHANCEMENT** Added a "full size images" style to the prophoto gallery block for use in the gutenberg editor
+* **ENHANCEMENT** Font styles have been re-worked, making them much more powerful, flexible, and easier to use
+* **ENHANCEMENT** Bold, italic, list, and blockquote formatting options added to the text module
+* Added work-around for Instagram authorization error for non-native english users
+* Fixed timing issue that could cause the media button to not work when using the classic editor
+* Fixed post author links not getting encoded correctly
+* Fixed issue where customization settings couldn't be overridden in "stuck" mode for sticky blocks
+
 ### 7.6.4
 
 Bugfixes (4/4/19)
