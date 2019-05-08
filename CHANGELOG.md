@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.7.1
+
+Bugfixes (5/8/19)
+
+* Removed old error reporting code that was causing a PHP warning
+* Fixed edge case where special characters in custom font names could cause them to not display on the front of a site
+
 ### 7.7.0
 
 Enhancements and bugfixes (5/6/19)
