@@ -1,5 +1,13 @@
 # Changelog
 
+### 7.7.2
+
+Bugfixes (5/17/19)
+
+* Fixed issue causing menu dropdowns to get the wrong font style applied
+* Font selection wasn't working in WordPress Widget modules
+* Dropping support for PHP 5.4 and 5.5 in keeping with WordPress' own requirements
+
 ### 7.7.1
 
 Bugfixes (5/8/19)
