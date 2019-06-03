@@ -1,5 +1,19 @@
 # Changelog
 
+### 7.7.3
+
+Bugfixes and an enhancement (6/3/19)
+
+* **ENHANCEMENT** Added importing of ProPhoto 4 & 5 galleries (under galleries > import)
+* **ENHANCEMENT** Reorganized blocks by usage in current layout, to make them easier to find
+* **ENHANCEMENT** Dropdown options at the top of the visual builder now close when you click anywhere outside of them
+* Improved handling of sites using HTTPS, preventing browser errors due to left-over HTTP requests
+* Prevent multiple spaces in text modules from collapsing to a single space
+* Multiple WordPress content modules on a page could result in excerpt grid not displaying enough items
+* Fixed encoding issue causing titles of posts/pages to show incorrectly in some areas of the visual builder 
+* Assigning a layout to all WooCommerce pages was resulting in that layout appearing on all pages period 🤦‍
+* Tooltip for deleting modules was showing text for blocks
+
 ### 7.7.2
 
 Bugfixes (5/17/19)
