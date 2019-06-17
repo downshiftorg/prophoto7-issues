@@ -1,5 +1,19 @@
 # Changelog
 
+### 7.7.4
+
+Enhancements and bugfixes (6/17/19)
+
+* **ENHANCEMENT** Gallery pages now render a gallery placeholder in the visual builder
+* **ENHANCEMENT** Default to alphabetical ordering of all lists of pages/galleries
+* **ENHANCEMENT** Adding responsive sizing to tile images for better performance
+* Preventing duplicate recent posts dropdown menu
+* Improved loading of galleries in the visual builder
+* Locking the default layout from editing without confirmation
+* Manage designs screen auto-scrolls to newly added designs
+* Several performance optimizations to speed up the visual builder
+* Some controls in the WordPress content module were being hidden incorrectly
+
 ### 7.7.3
 
 Bugfixes and an enhancement (6/3/19)
