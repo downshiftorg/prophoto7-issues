@@ -1,5 +1,19 @@
 # Changelog
 
+### 7.7.6
+
+bugfixes (6/20/19)
+
+* Fixed mobile menu visibility issues
+* Fixed issue causing multiple tiles in a graphic module to incorrectly display on multiple lines
+
+### 7.7.5
+
+bugfixes (6/18/19)
+
+* (regression) Design generation error was causing incorrect menu fonts due to migration failure
+* (regression) Modules that were being animated from the right were creating scrolling issues on mobile
+
 ### 7.7.4
 
 Enhancements and bugfixes (6/17/19)
