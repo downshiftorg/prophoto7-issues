@@ -1,5 +1,29 @@
 # Changelog
 
+### 7.7.8
+
+bugfixes (9/4/19)
+
+* Fixed bug causing block control bars in the visual builder to display out of position
+* Preventing a specific combination of grid settings from causing a white screen in the visual builder
+* Using a scrollto link from within a grid item now works properly
+* Fixed bug causing off-site images from being loaded properly
+* Removed duplicate filter call that was causing some plugins to be displayed twice
+* Fixed issue causing images and background galleries to not load properly after saving in certain browsers
+* Fixed issue causing a custom font to go missing when importing from ProPhoto 6
+* Password protected gallery pages now show the password form when loaded directly 
+* Fixed some typos in the Settings area
+
+### 7.7.7
+
+bugfixes (7/24/19)
+
+* **ENHANCEMENT** Added support for embedding video blocks responsively
+* Fixed grid issue when a grid image was corrupted or missing image data in the media library
+* Fixed form submission issue related to changing your site url
+* Fixed issue resulting in images being pixelated (too small) in scenarios where srcsets couldn't be generated
+* Fixed image rendering issue after switching site to https
+
 ### 7.7.6
 
 bugfixes (6/20/19)
