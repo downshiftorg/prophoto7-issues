@@ -1,5 +1,11 @@
 # Changelog
 
+### 7.7.9
+
+bugfixes (9/6/19)
+
+* Fixed regression in 7.7.8 that could cause blocks with graphics and background galleries to render incorrectly
+
 ### 7.7.8
 
 bugfixes (9/4/19)
