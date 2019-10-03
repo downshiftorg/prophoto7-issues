@@ -7,11 +7,11 @@ bugfixes (10/2/19)
 * A grid including a post with an old ProPhoto 5 gallery, will now correctly show the first image in the grid
 * Fixed tile bug causing layers respositioned on hover to be misaligned in some scenarios
 * Repositioned the text module toolbar so it isn't cut off by edges of screen when in a narrow column
-* Grid images now use full sized images when ProPhoto images downsizing is disabled
+* Grids now use full sized images when ProPhoto image downsizing is disabled
 * Re-worded some labels in the Layout settings area for more consistency/clarity
 * Fixed incorrect spacing above and below some elements caused by changes in newer browser versions
-* Preventing an Instagram error notification from causing a Javascript error on site
-* Grid images now using higher resolution images for high resolution (retina) devices
+* Prevent an Instagram error notification from causing a JavaScript error on site
+* Grids now use high resolution images for high resolution (retina) devices
 
 ### 7.7.9
 
