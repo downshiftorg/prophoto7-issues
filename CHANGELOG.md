@@ -1,5 +1,13 @@
 # Changelog
 
+### 7.7.11
+
+bugfixes (10/15/19)
+
+* (regression) Fixed error in the Post/Page editor when trying to insert a select posts grid
+* Preventing scroll jumpiness after navigating to a page with a scroll-to link
+* Gallery images now display in the correct order after inserting a Post or Page and saving
+
 ### 7.7.10
 
 bugfixes (10/2/19)
