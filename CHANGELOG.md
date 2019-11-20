@@ -1,5 +1,16 @@
 # Changelog
 
+### 7.7.12
+
+bugfixes (11/20/19)
+
+* **Enhancement** Fixed conflicts that were preventing NextGen Gallery compatibility
+* A css change in WordPress 5.3 was resulting in content images getting a left and right margin
+* Changes in the latest versions of Firefox were resulting in an error when saving in the visual builder
+* Deleting the default grid or gallery style was throwing an error
+* Making sure we don't cache SSL requests as non-SSL requests
+* Removed some unnecessary CSS from front pages of site
+
 ### 7.7.11
 
 bugfixes (10/15/19)
