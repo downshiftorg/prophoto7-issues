@@ -1,5 +1,17 @@
 # Changelog
 
+### 7.7.13
+
+bugfixes (01/31/20)
+
+* Slideover blocks were not scrolling all the way to the bottom
+* Thumbnail galleries on a page no longer prevent scroll-to links from working
+* Preventing fatal error when WPML plugin is enabled with ProPhoto 7 (NOTE: this is not providing any WPML support for ProPhoto 7, just preventing a fatal error).
+* Additional guarding to prevent "View Context" fatal error
+* Trying to prevent timeouts when importing designs
+* Preventing failures when importing designs containing videos
+* Improving compatability with PHP 7.4
+
 ### 7.7.12
 
 bugfixes (11/20/19)
