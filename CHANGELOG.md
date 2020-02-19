@@ -1,5 +1,14 @@
 # Changelog
 
+### 7.7.14
+
+bugfixes (02/19/20)
+
+* Fixed error showing up at bottom of pages containing excerpt grids
+* Should now work with php 7.4
+* Cleaned up styling of gallery insertion form in classic editor after latest WordPress update
+* The blog link in the layout manager now actually links to home page if home is set to show blog posts
+
 ### 7.7.13
 
 bugfixes (01/31/20)
