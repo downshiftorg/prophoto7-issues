@@ -1,8 +1,28 @@
 # Changelog
 
+### 7.7.16
+
+bugfixes (07/19/2020)
+
+* Fixed issue from Instagram enhancement that was preventing video thumbnails from displaying correctly
+* ProPhoto galleries inserted as full sized images now correctly lazyload, include alt tags, and use srcset if available
+* Fixed a regression that broke ProPhoto image watermarking
+* Fixed bug preventing visual building of WooCommerce product category pages
+* Page dropdown menu item is now sorted by page order values if set
+* WordPress tiled galleries inserted into pages/posts now work as expected
+* List item fonts selected in text modules now correctly override the default font setting
+* Deleting copies of a designs original slideover block no longer cause a white screen error
+* Fixed issue causing PHP warnings if WordPress debug mode was turned on
+
+### 7.7.15
+
+enhancement (06/23/2020)
+
+* **Enhancement** Updated Instagram integration to work with Instagram API changes.  Instagram images are now uploaded to media library.
+
 ### 7.7.14
 
-bugfixes (02/19/20)
+bugfixes (02/19/2020)
 
 * Fixed error showing up at bottom of pages containing excerpt grids
 * Should now work with php 7.4
@@ -11,7 +31,7 @@ bugfixes (02/19/20)
 
 ### 7.7.13
 
-bugfixes (01/31/20)
+bugfixes (01/31/2020)
 
 * Slideover blocks were not scrolling all the way to the bottom
 * Thumbnail galleries on a page no longer prevent scroll-to links from working
