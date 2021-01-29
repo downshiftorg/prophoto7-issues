@@ -1,5 +1,16 @@
 # Changelog
 
+### 7.7.17
+
+bugfixes (12/09/2020)
+
+* Added the wp_body_open action which is used by some plugins
+* Updated REST route paths which were causing PHP notices on sites that were in WP Debug mode
+* Grouped loading of galleries in visual builder to prevent lots of galleries from overwhelming some slower servers
+* Fixed bug causing the slideover menu to show incorrectly in some scenarios just in Safari browser
+* Adding hook for a support plugin to fix WPML plugin issue that could cause a design regeneration loop in the admin
+* Fixed some jQuery deprecations for the jQuery update in WordPress 5.6 release
+
 ### 7.7.16
 
 bugfixes (07/19/2020)
