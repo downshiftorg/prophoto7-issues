@@ -1,5 +1,13 @@
 # Changelog
 
+### 7.7.18
+
+bugfixes (08/11/2021)
+
+* **NOTICE** - This release prevents future auto-updates for anyone running a PHP version under 7.3 on their site. Our September 1 release of ProPhoto 7.7.19 will only support PHP versions 7.3 and higher **including PHP 8**.
+* Improved handling of static background images on iOS devices
+* Fixed bug occasionally causing Instagram images to be missing from Instagram grids on slower servers
+
 ### 7.7.17
 
 bugfixes (12/09/2020)
