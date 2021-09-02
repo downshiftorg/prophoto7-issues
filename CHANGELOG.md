@@ -1,5 +1,12 @@
 # Changelog
 
+### 7.7.19
+
+enhancements (09/01/2021)
+
+* **Enhancement** Updated ProPhoto for PHP 8 support, as well as dropping support for unsafe PHP versions under 7.3 (which are no longer supported by PHP)
+* **Enhancement** After a change to Instagram's API, we now periodically refresh your connection, so you shouldn't have to re-authorize your account
+
 ### 7.7.18
 
 bugfixes (08/11/2021)
