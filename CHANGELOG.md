@@ -1,5 +1,21 @@
 # Changelog
 
+### 7.7.21
+bugfixes (8/10/2022)
+
+* "Click to copy" button for scroll-to links now correctly adds text to your clipboard
+* Fixed issue preventing transaction ID from being pasted into footer removal links area
+* Fixed occasional mis-alignment of ProPhoto Grid items in Safari browser
+
+### 7.7.20
+
+enhancememnt and bugfixes (5/22/2022)
+
+* **Enhancement** PHP 8.1 compatability
+* Fixed errors breaking the block editor in WordPress 5.9
+* Prevent WordPress gallery block from stretching images when a max height was applied
+* Fixed encoding issue with special characters in a grid added to a WordPress Post or Page
+
 ### 7.7.19
 
 enhancements (09/01/2021)
